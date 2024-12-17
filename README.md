@@ -37,3 +37,18 @@ Para utilizar la clase ProductoService, se tiene que crear instancia de servicio
 ### 2.4. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
+## 3. Servlet Controlador
+Este es un proyecto Java que define el servlet Controlador.
+
+### 3.1. Descripción
+La servlet Controlador representa un servlet que gestiona las opciones para gestionar los productos.
+
+### 3.2. Funcionalidades
+El servlet Controlador tiene la siguiente funcionalidad:
+- doGet(): Recoge la opción que seleccionó el usuario para saber que realizar para geestionar los productos.
+
+### 3.3. Uso
+Para utilizar el servlet Controlador, se tiene llamar desde un link.
+
+### 3.4. Historia
+•	Version 0.1 (2024-12-17) - lanzamiento inicial
