@@ -101,7 +101,7 @@ Para utilizar el servlet Modificar, tiene que ser llamado desde un enlace para a
 ### 6.4. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 7. index.html
+## 7. Fichero index.html
 Este es un proyecto Java que define el fichero index.html.
 
 ### 7.1. Descripción
@@ -113,7 +113,7 @@ Para utilizar el fichero index.html se tiene que ejecutar de primero.
 ### 7.3. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 8. alta.html
+## 8. Fichero alta.html
 Este es un proyecto Java que define el fichero alta.html.
 
 ### 8.1. Descripción
@@ -125,7 +125,7 @@ Para utilizar el fichero alta.html se tiene que pulsar la opción de dar de alta
 ### 8.3. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 9. eliminar.jsp
+## 9. Fichero eliminar.jsp
 Este es un proyecto Java que define el fichero eliminar.jsp.
 
 ### 9.1. Descripción
@@ -137,7 +137,7 @@ Para utilizar el fichero eliminar.jsp se tiene que pulsar la opción de eliminar
 ### 9.3. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 10. modificar.jsp
+## 10. Fichero modificar.jsp
 Este es un proyecto Java que define el fichero modificar.jsp.
 
 ### 10.1. Descripción
@@ -149,7 +149,7 @@ Para utilizar el fichero modificar.jsp se tiene que pulsar la opción de modific
 ### 10.3. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 11. modificarProducto.jsp
+## 11. Fichero modificarProducto.jsp
 Este es un proyecto Java que define el fichero modificarProducto.jsp.
 
 ### 11.1. Descripción
@@ -161,7 +161,7 @@ Para utilizar el fichero modificarProducto.jsp se tiene que pulsar en el enlace 
 ### 11.3. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 12. buscar.jsp
+## 12. Fichero buscar.jsp
 Este es un proyecto Java que define el fichero buscar.jsp.
 
 ### 12.1. Descripción
@@ -173,7 +173,7 @@ Para utilizar el fichero buscar.jsp se tiene que pulsar en el enlace de buscar d
 ### 12.3. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 13. buscarProducto.jsp
+## 13. Fichero buscarProducto.jsp
 Este es un proyecto Java que define el fichero buscarProducto.jsp.
 
 ### 13.1. Descripción
@@ -185,7 +185,7 @@ Para utilizar el fichero buscarProducto.jsp se tiene que pulsar en el botón de 
 ### 13.3. Historia
 •	Version 0.1 (2024-12-17) - lanzamiento inicial
 
-## 14. listar.jsp
+## 14. Fichero listar.jsp
 Este es un proyecto Java que define el fichero listar.jsp.
 
 ### 14.1. Descripción
